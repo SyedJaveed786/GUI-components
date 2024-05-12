@@ -25,7 +25,7 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “GUIcomponent”.
-Developed by: SYED JAVEED H
+Developed by:SYED JAVEED H
 Registeration Number :212221220055
 */
 ```
